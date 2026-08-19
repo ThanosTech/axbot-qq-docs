@@ -15,7 +15,7 @@
 
 !!! success "本命令可在私聊中使用"
 
-查看个人状态，包括用户 OpenID、角色、账号状态、亲密度和剩余雷币。
+查看个人状态，包括用户 OpenID、角色、账号状态、好感度和剩余雷币。
 
 !!! tip "关于 user_openid"
     AXBot 无法得知 QQ 用户的 QQ 号，仅能通过 `user_openid` 定位用户。如果你的问题和具体用户相关，请提供 `user_openid`。
