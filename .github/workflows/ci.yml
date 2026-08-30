@@ -43,7 +43,7 @@ jobs:
           path: site
       - name: Extract metadata (tags, labels) for Docker
         id: meta
-        uses: docker/metadata-action@v5
+        uses: docker/metadata-action@v6
         with:
           images: |
             registry.cn-heyuan.aliyuncs.com/axiangcoding/axbot-qq-docs
